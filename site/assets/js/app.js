@@ -4,3 +4,11 @@ fetch('navbar.html')
 .then(data=>{
     nav.innerHTML=data
 });
+
+
+const head = document.querySelector('.head-content')
+fetch('header.html')
+.then(res=>res.text())
+.then(data=>{
+    nav.innerHTML=data
+});
