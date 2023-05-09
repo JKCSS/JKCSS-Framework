@@ -11,7 +11,6 @@
 }
 
 .navbar {
-  font-family: var(--jk-site-container-font);
   min-height: 10vh;
 }
 
@@ -19,7 +18,7 @@
   color: red;
 }
 
-.site-container {
+.site-container, .navbar {
   font-family: var(--jk-site-container-font);
   margin: 0 300px;
 }/*# sourceMappingURL=app.css.map */
