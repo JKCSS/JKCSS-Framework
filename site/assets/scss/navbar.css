@@ -1,1 +1,5 @@
-/*# sourceMappingURL=navbar.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+:root {
+  --jk-site-container-font: "Roboto", sans-serif;
+  --jk-purple: #880ED4;
+}/*# sourceMappingURL=navbar.css.map */
