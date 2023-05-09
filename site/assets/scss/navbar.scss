@@ -1,10 +1,10 @@
 @import "root";
-@import "app";
+
 
 .navbar{
     font-family: var(--jk-site-container-font);
     min-height: 10vh;
 }
 .navbar .logo{
-    color: var(--jk-purple);
+    color: red;
 }

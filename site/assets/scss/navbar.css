@@ -4,8 +4,11 @@
   --jk-purple: #880ED4;
 }
 
-.nav-bar {
+.navbar {
   font-family: var(--jk-site-container-font);
   min-height: 10vh;
-  background-color: black;
+}
+
+.navbar .logo {
+  color: red;
 }/*# sourceMappingURL=navbar.css.map */
