@@ -6,9 +6,3 @@ fetch('navbar.html')
 });
 
 
-const head = document.querySelector('.head-content')
-fetch('header.html')
-.then(res=>res.text())
-.then(data=>{
-    nav.innerHTML=data
-});
