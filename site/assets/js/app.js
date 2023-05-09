@@ -1,4 +1,4 @@
-const nav = document.querySelector('.nav-bar')
+const nav = document.querySelector('.navbar')
 fetch('navbar.html')
 .then(res=>res.text())
 .then(data=>{
