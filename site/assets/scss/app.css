@@ -10,6 +10,14 @@
   --jk-purple: #880ED4;
 }
 
+.nav-bar {
+  font-family: var(--jk-site-container-font);
+}
+
+body {
+  padding: 0px 300px;
+}
+
 .site-container {
   font-family: var(--jk-site-container-font);
 }/*# sourceMappingURL=app.css.map */
