@@ -1,7 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 :root {
-  --jk-container-font-color: red;
+  --jk-site-container-font: "Roboto", sans-serif;
 }
 
 .site-container {
-  color: var(--jk-container-font-color);
+  font-family: var(--jk-site-container-font);
 }/*# sourceMappingURL=app.css.map */
