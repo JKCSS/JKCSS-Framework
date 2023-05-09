@@ -1,7 +1,7 @@
 :root {
-  --container-font-color: red;
+  --jk-container-font-color: red;
 }
 
 .site-container {
-  color: var(--container-font-color);
+  color: var(--jk-container-font-color);
 }/*# sourceMappingURL=app.css.map */
