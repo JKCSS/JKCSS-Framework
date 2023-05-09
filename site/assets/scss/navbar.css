@@ -2,4 +2,8 @@
 :root {
   --jk-site-container-font: "Roboto", sans-serif;
   --jk-purple: #880ED4;
+}
+
+.nav-bar {
+  font-family: var(--jk-site-container-font);
 }/*# sourceMappingURL=navbar.css.map */
