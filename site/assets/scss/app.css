@@ -4,8 +4,6 @@
   --jk-purple: #880ED4;
 }
 
-
-
 .navbar {
   min-height: 10vh;
   background-color: var(--jk-purple);
@@ -13,6 +11,11 @@
 
 .navbar .logo {
   color: red;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 .site-container {
