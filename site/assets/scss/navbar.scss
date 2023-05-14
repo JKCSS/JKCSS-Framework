@@ -1,11 +1,9 @@
-@import "app";
-
+ @import "app";
+ 
 .navbar{
     height: 35vh;    
     background-color: var(--jk-purple);
 }
 .navbar .logo{
     color: red;
-    @extend .site-container;
-    
 }
