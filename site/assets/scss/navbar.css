@@ -5,4 +5,5 @@
 
 .navbar .logo {
   color: red;
+  padding: var(--jk-top-padding);
 }/*# sourceMappingURL=navbar.css.map */
