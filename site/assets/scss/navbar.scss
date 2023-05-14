@@ -1,4 +1,3 @@
- @import "app";
 
 .navbar{
     height: 35vh;    
@@ -6,6 +5,5 @@
 }
 .navbar .logo{
     color: red;
-    @extend .site-container;
-    
+    margin: 0 300px;   
 }
