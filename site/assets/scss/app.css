@@ -1,6 +1,6 @@
 .navbar {
   background-color: var(--jk-purple);
-  height: 100vh;
+  height: var(--jk-navheight);
 }
 
 :root {
