@@ -1,5 +1,5 @@
 .navbar {
   background-color: var(--jk-purple);
   height: var(--jk-navheight);
-  padding: 50px 0;
+  padding: 50px 0 0 0;
 }
