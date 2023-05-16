@@ -1,9 +1,11 @@
 .navbar {
   background-color: var(--jk-purple);
+  height: var(--jk-navheigh);
 }
 
 :root {
-  --jk-purple:#A020F0;
+  --jk-purple: #A020F0;
+  --jk-navheight: 400;
 }
 
 * {
