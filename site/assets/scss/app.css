@@ -9,7 +9,7 @@
 }
 
 .navbar .logo {
-  font-size: 30px;
+  font-size: var(--title-font);
 }
 
 :root {
