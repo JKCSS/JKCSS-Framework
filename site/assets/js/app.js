@@ -5,4 +5,12 @@ fetch('navbar.html')
     nav.innerHTML=data
 });
 
+const footer = document.querySelector('.footerbar')
+fetch('footerbar.html')
+.then(res=>res.text())
+.then(data=>{
+    footer.innerHTML=data
+});
+
+
 
