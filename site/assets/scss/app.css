@@ -24,6 +24,7 @@
   --jk-mfont-color: white;
   --title-font: 50px;
   --title-font-family: "Kanit", sans-serif;
+  --normal-title: 30px;
 }
 
 * {
@@ -37,4 +38,8 @@
 
 .main-content {
   margin-top: 50px;
+}
+
+.main-content .title {
+  font-size: var(--normal-title);
 }
