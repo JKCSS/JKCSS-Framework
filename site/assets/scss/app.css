@@ -46,5 +46,5 @@
   font-size: var(--normal-title);
   padding-bottom: 10px;
   width: 20%;
-  border-bottom: 1px solid rgb(190, 190, 190);
+  border-bottom: var(--border-bottom);
 }
