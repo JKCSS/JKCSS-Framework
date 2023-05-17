@@ -11,3 +11,7 @@
   font-size: var(--title-font);
   font-family: var(--title-font-family);
 }
+
+.navbar .quote {
+  padding-bottom: 20px;
+}
