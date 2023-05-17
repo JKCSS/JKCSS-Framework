@@ -20,10 +20,7 @@
 .navbar .links .git-img {
   width: 30px;
   height: 30px;
-}
-
-.navbar .links .text {
-  padding-top: -100px;
+  padding-top: 50px;
 }
 
 :root {
