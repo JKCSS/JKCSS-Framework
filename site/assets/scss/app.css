@@ -38,6 +38,7 @@
 
 .main-content {
   margin-top: 50px;
+  font-family: var(--title-font-family);
 }
 
 .main-content .title {
