@@ -8,8 +8,8 @@
   color: var(--jk-mfont-color);
 }
 
-.navbar.logo {
-  font-size: var(--title-font);
+.navbar .logo {
+  font-size: 30px;
 }
 
 :root {
