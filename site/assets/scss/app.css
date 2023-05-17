@@ -22,6 +22,10 @@
   height: 30px;
 }
 
+.navbar .links .text {
+  padding-top: -10px;
+}
+
 :root {
   --jk-purple: #A020F0;
   --jk-navheight: 30vh;
