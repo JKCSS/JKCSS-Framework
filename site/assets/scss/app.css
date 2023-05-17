@@ -8,6 +8,10 @@
   color: var(--jk-mfont-color);
 }
 
+.navbar.logo {
+  font-size: var(--title-font);
+}
+
 :root {
   --jk-purple: #A020F0;
   --jk-navheight: 30vh;
