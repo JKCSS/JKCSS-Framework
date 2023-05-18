@@ -44,3 +44,7 @@
   height: 200px;
   border-radius: 5px;
 }
+
+a {
+  color: var(--jk-mfont-color);
+}
