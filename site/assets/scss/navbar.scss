@@ -13,3 +13,6 @@
 .navbar .quote{
     padding-bottom: 40px;
 }
+.other-nav{
+    @extend .navbar;
+}
