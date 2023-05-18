@@ -53,6 +53,11 @@
   margin-bottom: 5px;
 }
 
+.item1 {
+  grid-area: a;
+  text-align: left;
+}
+
 .site-container {
   margin: 0 300px;
 }
