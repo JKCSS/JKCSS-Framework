@@ -18,11 +18,18 @@
 }
 .item1{
     grid-area: a;
-    text-align: left;
 }
+.item2{
+    grid-area: a;
+}
+.item3{
+    grid-area: a;
+}
+.item4{
+    grid-area: a;
+}
+
+
 .title{
     font-size: var(--normal-title);
-}
-.item2 .title{
-    @extend .title;
 }
