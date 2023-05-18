@@ -15,4 +15,5 @@
 }
 .other-nav{
     @extend .navbar;
+    height: var(--othernav-height);
 }

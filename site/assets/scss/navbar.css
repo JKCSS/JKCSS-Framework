@@ -15,3 +15,7 @@
 .navbar .quote, .other-nav .quote {
   padding-bottom: 40px;
 }
+
+.other-nav {
+  height: var(--othernav-height);
+}
