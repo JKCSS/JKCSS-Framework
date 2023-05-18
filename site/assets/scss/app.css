@@ -80,7 +80,7 @@
   border-radius: 5px;
 }
 
-a {
+.fooer-a {
   color: var(--jk-mfont-color);
 }
 
@@ -111,4 +111,8 @@ a {
   height: 250px;
   border-radius: 5px;
   align-items: center;
+}
+
+a {
+  color: rgb(0, 110, 253);
 }
