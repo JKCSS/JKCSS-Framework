@@ -58,6 +58,10 @@
   text-align: left;
 }
 
+.title, .item2 .title {
+  font-size: var(--normal-title);
+}
+
 .site-container {
   margin: 0 300px;
 }

@@ -20,3 +20,9 @@
     grid-area: a;
     text-align: left;
 }
+.title{
+    font-size: var(--normal-title);
+}
+.item2 .title{
+    @extend .title;
+}

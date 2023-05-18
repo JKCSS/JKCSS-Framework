@@ -22,3 +22,7 @@
   grid-area: a;
   text-align: left;
 }
+
+.title, .item2 .title {
+  font-size: var(--normal-title);
+}
