@@ -74,6 +74,11 @@
   padding-bottom: 20px;
 }
 
+.footer-logo {
+  width: 200px;
+  height: 200px;
+}
+
 .site-container {
   margin: 0 300px;
 }
