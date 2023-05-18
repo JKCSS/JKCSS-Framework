@@ -40,3 +40,12 @@ a{
 .relese-content .body{
     font-family: var(--jk-site-font);
 }
+.relese-content .body .topic{
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: var(--border-bottom);
+    width: 40%;
+}
+.relese-content .body .features{
+    margin: 15px 40px;
+}
