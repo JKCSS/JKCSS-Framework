@@ -23,17 +23,18 @@
 }
 
 .item2 {
-  grid-area: a;
+  grid-area: b;
 }
 
 .item3 {
-  grid-area: a;
+  grid-area: c;
 }
 
 .item4 {
-  grid-area: a;
+  grid-area: d;
 }
 
 .title {
   font-size: var(--normal-title);
+  padding-bottom: 20px;
 }
