@@ -12,5 +12,12 @@ fetch('footerbar.html')
     footer.innerHTML=data
 });
 
+const othernav = document.querySelector('.other-nav')
+fetch('nav.html')
+.then(res=>res.text())
+.then(data=>{
+    othernav.innerHTML=data
+});
+
 
 
