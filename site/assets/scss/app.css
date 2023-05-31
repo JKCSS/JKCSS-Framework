@@ -169,7 +169,7 @@ a {
 }
 
 .get-title {
-  margin-top: 50px;
+  margin: 50px 0;
   text-align: center;
   font-size: calc(var(--button-text) * 2);
   font-family: var(--jk-site-font);
