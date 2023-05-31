@@ -36,6 +36,7 @@
   --transition-speed: 0.5s;
   --hover-color: #7f17c0;
   --file-font: red;
+  --file-backcolor: rgb(218, 218, 218);
 }
 
 * {
@@ -187,7 +188,7 @@ a {
 }
 
 .file-view {
-  background-color: rgb(218, 218, 218);
+  background-color: var(--file-backcolor);
   color: var(--file-font);
   padding: 0 10px;
   border-radius: 5px;
