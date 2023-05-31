@@ -72,3 +72,7 @@ a{
     font-size: calc(var(--button-text) * 2);
     font-family: var(--jk-site-font);    
 }
+.get-body{
+    font-family: var(--title-font-family);
+    font-size: var(--button-text);
+}
