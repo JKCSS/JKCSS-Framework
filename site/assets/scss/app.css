@@ -189,4 +189,5 @@ a {
 .file-view {
   background-color: black;
   color: var(--file-font);
+  padding: 0 10px;
 }
