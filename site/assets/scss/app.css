@@ -167,3 +167,7 @@ a {
   cursor: pointer;
   background-color: var(--hover-color);
 }
+
+.get-title {
+  margin-top: 50px;
+}
