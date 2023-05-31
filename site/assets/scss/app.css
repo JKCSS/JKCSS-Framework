@@ -144,3 +144,9 @@ a {
 .relese-content .body .features {
   margin: 15px 40px;
 }
+
+.get-started-btn {
+  width: 20%;
+  margin-top: 20px;
+  height: 50px;
+}
