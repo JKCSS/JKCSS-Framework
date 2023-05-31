@@ -190,4 +190,5 @@ a {
   background-color: black;
   color: var(--file-font);
   padding: 0 10px;
+  border-radius: 5px;
 }
