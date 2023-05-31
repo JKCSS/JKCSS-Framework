@@ -19,11 +19,11 @@ fetch('nav.html')
     othernav.innerHTML=data
 });
 
-const getnav = document.querySelector('.get_nav')
+const get_nav = document.querySelector('.get_nav')
 fetch('get_nav.html')
 .then(res=>res.text())
 .then(data=>{
-    getnav.innerHTML=data
+    get_nav.innerHTML=data
 });
 
 
