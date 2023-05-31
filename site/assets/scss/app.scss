@@ -59,6 +59,7 @@ a{
     color: var(--jk-mfont-color);
     font-family: var(--jk-site-font);
     font-size: var(--button-text);
+    transition: var(--transition-speed);
 }
 .get-started-btn:hover{
     box-shadow: 10px 10px 5px #aaaaaa;

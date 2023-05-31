@@ -33,6 +33,7 @@
   --othernav-height: 20vh;
   --shadow-color: black;
   --button-text: 20px;
+  --transition-speed: 0.5s;
 }
 
 * {
@@ -157,6 +158,7 @@ a {
   color: var(--jk-mfont-color);
   font-family: var(--jk-site-font);
   font-size: var(--button-text);
+  transition: var(--transition-speed);
 }
 
 .get-started-btn:hover {
