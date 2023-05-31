@@ -32,6 +32,7 @@
   --border-bottom: 1px solid rgb(190, 190, 190);
   --othernav-height: 20vh;
   --shadow-color: black;
+  --button-text: 20px;
 }
 
 * {
@@ -155,5 +156,5 @@ a {
   background-color: var(--jk-purple);
   color: var(--jk-mfont-color);
   font-family: var(--jk-site-font);
-  font-size: var(--normal-title);
+  font-size: var(--button-text);
 }
