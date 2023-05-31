@@ -184,3 +184,7 @@ a {
 .get-list {
   margin: 50px 20px;
 }
+
+.file-view {
+  background-color: black;
+}
