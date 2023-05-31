@@ -19,7 +19,7 @@ fetch('nav.html')
     othernav.innerHTML=data
 });
 
-const getnav = document.querySelector('.other-nav')
+const getnav = document.querySelector('.get_nav')
 fetch('get_nav.html')
 .then(res=>res.text())
 .then(data=>{
