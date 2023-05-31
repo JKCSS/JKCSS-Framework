@@ -3,6 +3,10 @@
 
 <p align="center">The JKCSS is a CSS Framework</p>
 
+# Introduction
+
+The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment 
+
 # Developers
  
  <b>JehanKandy (Founder/Developer)</b>
