@@ -5,7 +5,7 @@
 
 # Introduction
 
-The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment 
+The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
 # Developers
  
