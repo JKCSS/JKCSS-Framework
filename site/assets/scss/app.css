@@ -153,4 +153,5 @@ a {
   border-radius: 5px;
   border: none;
   background-color: var(--jk-purple);
+  color: var(--jk-mfont-color);
 }
