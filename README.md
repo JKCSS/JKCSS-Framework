@@ -13,6 +13,12 @@ The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who
 
 # Releases
 
+## Version - v0.2.0 Latest(TEST Releases) - 31 May 2023
+
+- adding domain name for testing purposes 
+- Improve Base Interfaces
+- non-production ready
+
 ## Version - v0.1.1 (pre-release) - 31 May 2023
 
 - Improve Base Interfaces
