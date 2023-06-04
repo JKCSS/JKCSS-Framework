@@ -110,6 +110,10 @@ a{
 .comment-code{
     color: var(--comment-code);
 }
+.main-title{
+    font-size: 30px;
+    margin: 20px 0;
+}
 .normal-table{
     margin: 20px 0;
     font-size: 20px;
@@ -117,6 +121,5 @@ a{
 .normal-table th{
     height: 30px;
     width: 50%;
-    border-bottom: 1px solid black;
-    
+    border-bottom: 1px solid black;    
 }

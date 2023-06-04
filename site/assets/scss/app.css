@@ -231,6 +231,11 @@ a {
   color: var(--comment-code);
 }
 
+.main-title {
+  font-size: 30px;
+  margin: 20px 0;
+}
+
 .normal-table {
   margin: 20px 0;
   font-size: 20px;
