@@ -42,6 +42,7 @@
   --code-lightblue: rgb(15, 131, 240);
   --code-red: rgb(151, 26, 26);
   --normal-code: black;
+  --comment-code: grey;
 }
 
 * {
@@ -223,4 +224,8 @@ a {
 
 .normal-code {
   color: var(--normal-code);
+}
+
+.comment-code {
+  color: var(--comment-code);
 }
