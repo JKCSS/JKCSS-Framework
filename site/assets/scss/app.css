@@ -40,6 +40,7 @@
   --code-backcolor: rgb(218, 218, 218);
   --code-blue: rgb(50, 87, 255);
   --code-lightblue: rgb(0, 140, 255);
+  --code-red: rgb(151, 26, 26);
 }
 
 * {
@@ -209,4 +210,8 @@ a {
 
 .lblue-text {
   color: var(--code-lightblue);
+}
+
+.red-text {
+  color: var(--code-red);
 }
