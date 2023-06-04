@@ -37,6 +37,7 @@
   --hover-color: #7f17c0;
   --file-font: red;
   --file-backcolor: rgb(218, 218, 218);
+  --code-backcolor: rgb(218, 218, 218);
 }
 
 * {
@@ -192,4 +193,9 @@ a {
   color: var(--file-font);
   padding: 0 10px;
   border-radius: 5px;
+}
+
+.code-back {
+  background-color: var(--code-backcolor);
+  padding: 20px 50px;
 }
