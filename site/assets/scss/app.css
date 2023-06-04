@@ -204,6 +204,7 @@ a {
   background-color: var(--code-backcolor);
   padding: 20px 50px;
   font-family: var(--title-font-family);
+  border-radius: 5px;
 }
 
 .blue-text {
