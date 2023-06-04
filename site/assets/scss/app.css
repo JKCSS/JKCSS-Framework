@@ -231,6 +231,13 @@ a {
   color: var(--comment-code);
 }
 
-.normal-tabel {
+.normal-table {
   margin: 20px 0;
+  font-size: 20px;
+}
+
+.normal-table th {
+  height: 30px;
+  width: 50%;
+  border-bottom: 1px solid black;
 }
