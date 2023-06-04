@@ -5,7 +5,12 @@
 
 # Introduction
 
-The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
+- The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
+<br>
+
+- The JKCSS CSS - Frameworks Releases -v0.2.0 Latest(TEST Releases) 04 June 2023 is Releases with domain name for testing purposes 
+<br>
+
 
 # Projects
 
@@ -13,7 +18,7 @@ The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who
 
 # Releases
 
-## Version - v0.2.0 Latest(TEST Releases) - 31 May 2023
+## Version - v0.2.0 Latest(TEST Releases) - 04 June 2023
 
 - adding domain name for testing purposes 
 - Improve Base Interfaces
