@@ -157,7 +157,7 @@ a {
   margin: 15px 40px;
 }
 
-.get-started-btn {
+.get-started-btn, .all-examples-btn {
   width: 20%;
   margin-top: 20px;
   height: 50px;
@@ -170,7 +170,7 @@ a {
   transition: var(--transition-speed);
 }
 
-.get-started-btn:hover {
+.get-started-btn:hover, .all-examples-btn:hover {
   box-shadow: 10px 10px 5px #aaaaaa;
   cursor: pointer;
   background-color: var(--hover-color);
