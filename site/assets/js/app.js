@@ -26,11 +26,11 @@ fetch('get_nav.html')
     get_nav.innerHTML=data
 });
 
-const example_nav = document.querySelector('.example-nav')
-fetch('example_nav.html')
+const nav_example = document.querySelector('.example-nav')
+fetch('navbar.html')
 .then(res=>res.text())
 .then(data=>{
-    example_nav.innerHTML=data
+    nav_example.innerHTML=data
 });
 
 
