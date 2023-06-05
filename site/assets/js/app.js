@@ -30,7 +30,7 @@ const example_nav = document.querySelector('.example-nav')
 fetch('example_nav.html')
 .then(res=>res.text())
 .then(data=>{
-    get_nav.innerHTML=data
+    example_nav.innerHTML=data
 });
 
 
