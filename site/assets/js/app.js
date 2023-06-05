@@ -27,7 +27,7 @@ fetch('get_nav.html')
 });
 
 const exmaple_nav = document.querySelector('.example-nav')
-fetch('get_nav.html')
+fetch('example_nav.html')
 .then(res=>res.text())
 .then(data=>{
     exmaple_nav.innerHTML=data
