@@ -1,4 +1,4 @@
-.navbar, .other-nav, .get-nav {
+.navbar, .other-nav, .example-nav, .get-nav {
   background-color: var(--jk-purple);
   height: var(--jk-navheight);
   padding: 50px 0 0 0;
@@ -7,15 +7,15 @@
   color: var(--jk-mfont-color);
 }
 
-.navbar .logo, .other-nav .logo, .get-nav .logo {
+.navbar .logo, .other-nav .logo, .example-nav .logo, .get-nav .logo {
   font-size: var(--title-font);
   font-family: var(--title-font-family);
 }
 
-.navbar .quote, .other-nav .quote, .get-nav .quote {
+.navbar .quote, .other-nav .quote, .example-nav .quote, .get-nav .quote {
   padding-bottom: 40px;
 }
 
-.other-nav, .get-nav {
+.other-nav, .example-nav, .get-nav {
   height: var(--othernav-height);
 }
