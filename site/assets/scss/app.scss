@@ -123,3 +123,6 @@ a{
     width: 50%;
     border-bottom: 1px solid black;    
 }
+.all-examples-btn{
+    @extend .get-started-btn
+}
