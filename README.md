@@ -22,7 +22,7 @@
 
 # Releases
 
-## Version - v1.0.0-beta1 - 04 June 2023 Latest
+## Version - v1.0.0-beta1 - 30 June 2023 Latest
 
 - adding CDN link
 - Improve Base Interfaces
